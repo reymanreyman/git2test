@@ -1,0 +1,80 @@
+{
+  "nombre":"Jonh Doe",
+  "profesion":"Programador",
+  "edad":25,
+  "lenguajes":["PHP","Javascript","Dart"],
+  "disponibilidadParaViajar":true,
+  "rangoProfesional": {
+      "aniosDeExperiencia": 12,
+      "nivel": "Senior"
+  }
+}
+
+{
+  "ciudad":"Nueva York",
+  "pais":"Estados Unidos"
+}
+{
+"estudiantes": [
+  {"primerNombre":"Tom", "Apellido":"Jackson"},
+  {"primerNombre":"Linda", "Apellido":"Garner"},
+  {"primerNombre":"Adam", "Apellido":"Cooper"}
+  ]
+}
+
+{"valor":
+[
+  {
+    "nombre": "Pepito Conejo",
+    "edad": 25,
+    "carnet de conducir": true
+  },
+  {
+    "nombre": "Ana Barberá",
+    "edad": 90,
+    "carnet de conducir": false
+  }
+  
+]
+}
+
+
+
+
+
+  [{
+  "app_name": "IRUATNEC",
+  "os_image": [{
+          "name": "CentOS 7.1",
+          "image_url": "https://cloud.centos.org/centos/7/images/CentOS-7-x86_64-GenericCloud.qcow2",
+          "qt": {
+              "version": "4.8",
+              "app_name": "IRUATNEC",
+              "script_url": "https://raw.githubusercontent.com/reymanreyman/scripts-navan/master/qt4.sh"
+          }
+      },
+      {
+          "name": "CentOS 8.2",
+          "image_url": "https://cloud.centos.org/centos/8/x86_64/images/CentOS-8-GenericCloud-8.2.2004-20200611.2.x86_64.qcow2",
+          "qt": {
+              "version": "5.9.4",
+              "app_name": "ELLIACAL",
+              "script_url": "https://raw.githubusercontent.com/reymanreyman/scripts-navan/master/qt5.sh"
+          }
+      }
+  ],
+  "compilers": [{
+          "name": "Qmake",
+          "script_url": "n/a"
+      },
+      {
+          "name": "Make",
+          "script_url": "n/a"
+      }
+  ],
+  "editors": [{
+      "name": "QtCreator",
+      "script_url": ""
+  }]
+},
+
