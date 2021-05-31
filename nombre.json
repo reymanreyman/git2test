@@ -38,11 +38,7 @@
 ]
 }
 
-
-
-
-
-  [{
+[{
   "app_name": "IRUATNEC",
   "os_image": [{
           "name": "CentOS 7.1",
@@ -75,6 +71,6 @@
   "editors": [{
       "name": "QtCreator",
       "script_url": ""
-  }]
+}]
 },
 
